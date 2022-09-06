@@ -1,2 +1,2 @@
 # pga-frontend-its
-Internal Tracking System for PGO Aklan
+Internal Tracking System for Provincial Government Office Aklan
